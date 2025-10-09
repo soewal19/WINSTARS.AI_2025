@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow>=2.9.0
+torch
+torchvision
+transformers
+datasets
+seqeval
+Pillow
+jupyter
+pytest
+tqdm
+joblib

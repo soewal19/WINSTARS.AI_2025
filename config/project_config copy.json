@@ -1,0 +1,20 @@
+{
+  "project": "winstars_internship_v10",
+  "dataset": {
+    "animals_demo": "data/animals10_demo",
+    "mnist_sample": "data/mnist_sample"
+  },
+  "ner": {
+    "model": "dslim/bert-base-NER",
+    "epochs": 3,
+    "batch_size": 8
+  },
+  "image": {
+    "arch": "resnet18",
+    "epochs": 5,
+    "batch_size": 16
+  },
+  "training": {
+    "seed": 42
+  }
+}
