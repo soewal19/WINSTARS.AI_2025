@@ -4,6 +4,10 @@ Bilingual documentation (English / Русский) for training and running the 
 - Task 1: MNIST digit classification with 3 algorithms (RandomForest, Feed-Forward NN, CNN) in TensorFlow + scikit-learn.
 - Task 2: Simple multimodal pipeline — NER (HuggingFace Transformers) + image classification (ResNet18 in PyTorch) on Animals-10 demo. The pipeline returns a boolean if a detected entity matches the predicted image class.
 
+Each task has its own detailed README:
+- [Task 1 README](src/task1/README.md)
+- [Task 2 README](src/task2/README.md)
+
 Contents:
 - English
   - Overview
