@@ -414,6 +414,6 @@ pytest -k test_imports -q
 
 ---
 #notebook Links
-#task1
-https://colab.research.google.com/drive/1CaQtGfb4BTYpNXnOepMjQON2n-uyuU2H?usp=sharing
+#task2
+[https://colab.research.google.com/drive/1CaQtGfb4BTYpNXnOepMjQON2n-uyuU2H?usp=sharing](https://colab.research.google.com/drive/1CaQtGfb4BTYpNXnOepMjQON2n-uyuU2H?usp=sharing)
 This README supersedes docs/USAGE.md where they diverge. Use the commands in this file for the current codebase.
